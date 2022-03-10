@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+.text-color {
+    color: lightcoral;
+    background-color: antiquewhite;
+    font-family: 'Lobster', cursive;
+}
+
+
+#color {
+    color:rgb(65, 180, 252);
+    font-weight: bolder;
+}
+.center {
+    text-align: center;
+}
